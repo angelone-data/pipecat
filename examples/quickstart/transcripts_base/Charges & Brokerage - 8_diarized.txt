@@ -1,0 +1,17 @@
+Agent: Good afternoon, welcome to Angel One. This is Kiran Ravit. May I speak with Mr. Rohit Nagi?  
+Customer: Yes, speaking.  
+Agent: How may I assist you today?  
+Customer: I would like to know if you have any packages with low charges.  
+Agent: We have some offers that waive brokerage charges. While we don’t have specific packages, our consultant department provides limited‑time subscription plans. You can view them in the Angel One app under the “Offers & Rewards” section on the home page.  
+Customer: Which column is that?  
+Agent: It’s the “Offers & Rewards” column on the home screen, just below the main options.  
+Customer: I’m not seeing anything in the offers section.  
+Agent: The offers displayed are promotional and change regularly. Some offers may have expired; for example, the unlimited zero‑brokerage on MSC commodity was valid in November 2023 and has now expired. You’ll need to wait for a new offer to appear.  
+Customer: I see a subscription plan option, but it’s blank.  
+Agent: Not all customers have a subscription plan available. Currently, we don’t have a regular plan that provides limited brokerage for you.  
+Customer: So how can I close my account?  
+Agent: I can guide you through the closure process. First, make sure there are no open positions or miscellaneous funds in the account. If there are, transfer or sell them and withdraw any remaining balance.  
+Customer: Okay, what’s the next step?  
+Agent: Open the Angel One app, tap your name on the right‑hand side, select “Manage Account,” then scroll to “Limit and Trading Account Closure.” Submit the closure request, enter your mobile number, and verify with the OTP you receive. After approval, the account will be closed within 2‑3 weeks.  
+Customer: Can anyone else help me with this?  
+Agent: After the call you’ll receive a feedback survey at your registered email address. Feel free to share any further concerns there.

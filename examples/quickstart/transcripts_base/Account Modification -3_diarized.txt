@@ -1,0 +1,25 @@
+Agent: Good afternoon, welcome to ING-1. My name is Shreya. How may I assist you?  
+
+Customer: I have a question about the option equity segment. I just completed my KIC and it’s asking for a bank statement for the last six months. If I opened my account last month, do I have to wait six months?  
+
+Agent: You are trying to activate your segment, and it requires a statement to be uploaded.  
+
+Customer: Yes, it’s asking for the statement. I’ll go to the appropriate page.  
+
+Agent: I see, you are Mr. Jardine. As I check, your equity segment is active. To activate the futures and options segment you need to submit a request through the app and upload a six‑month bank statement, a three‑month salary slip, a demat holding statement, or an ITR document. Once uploaded, the segment will be activated within two to three working days.  
+
+Customer: I don’t have a six‑month bank statement because I opened the account one and a half months ago. I can provide a salary slip for the last three months.  
+
+Agent: Yes, you can upload the last three months’ salary slip. If you don’t have that, you could buy a share, wait for settlement, then download the demat holding statement and upload it.  
+
+Customer: So I can buy a share today, download its statement tomorrow and upload it?  
+
+Agent: Exactly, that will work.  
+
+Customer: Can you give me any help related to AngelOne?  
+
+Agent: I’m sorry, I can’t assist with AngelOne.  
+
+Customer: Thank you.  
+
+Agent: Thank you.

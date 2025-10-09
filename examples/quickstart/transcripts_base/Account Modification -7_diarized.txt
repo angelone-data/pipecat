@@ -1,0 +1,31 @@
+Agent: Good afternoon sir. Welcome to AngelOne. My name is Chaitra Ali. Am I speaking with Mr. Rishabh Agarwal?  
+Customer: Yes sir.  
+Agent: So you called from an unregistered number. I need to verify your details. Can you please tell me the mobile number? Is this the registered one?  
+Customer: 9‑6‑1‑7‑0‑3‑7‑2‑1‑4.  
+Agent: OK. Date of birth, please.  
+Customer: 11‑12‑19‑92.  
+Agent: OK. Email ID, please.  
+Customer: South de Agrawa 0211‑1‑1‑4.  
+Agent: Verification is done. Thank you. How can I help you today?  
+Customer: The number is about to be stopped, so we need to change it.  
+Agent: I understand. We can change the phone number for you. You’ll need to do the modification through the Android app. I’ll guide you through the process.  
+Customer: It’s not allowing us to log out. We tried logging in with the new number, but it got stuck. The logout is now done.  
+Agent: First, you need to log in with the registered number.  
+Customer: Yes, we have logged in with the registered number. It’s done.  
+Agent: If the PIN is reported as wrong, you can use the “Forgot PIN” option. It will ask you to enter an OTP sent to your registered mobile number.  
+Customer: The OTP has arrived on my phone.  
+Agent: The OTP will also be sent to your registered email ID. Once you receive it, we can continue.  
+Customer: I’ve opened the email and got the OTP.  
+Agent: After logging in, go to the Account section, then select your name. In Personal Details, tap the pencil icon next to the registered mobile number, enter the new number, and tap Verify.  
+Customer: I’ve entered the new number and tapped Verify. An OTP was sent to the new number.  
+Agent: Enter that OTP. After verification, you’ll see a “Confirm contact details” screen. Click “Proceed to E‑sign.”  
+Customer: I’ve proceeded to E‑sign and entered my Aadhaar number. An OTP was sent to the Aadhaar‑linked number, which I’ve entered.  
+Agent: That completes the process. There are no further steps.  
+Customer: So after entering the OTP, I should receive a message that the mobile number modification request has been submitted and will be processed in 2‑3 working days.  
+Agent: Correct.  
+Customer: I haven’t received that message yet. Can you check?  
+Agent: I’ll verify the request status.  
+Customer: Can anyone else assist me, Rishabh sir?  
+Agent: No, I’ll handle it.  
+Agent: Thank you for calling Angel One. Have a good day, sir.  
+Customer: Thank you. Have a good day.

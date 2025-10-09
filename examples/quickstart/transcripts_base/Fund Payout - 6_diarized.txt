@@ -1,0 +1,21 @@
+Agent: Good morning, Ms. Neha. My name is Akash from Ingenome. How may I help you?  
+Customer: Good morning, sir. My name is Neha Bhatt.  
+Customer: On Friday I withdrew Rs 3,000 but it hasn't appeared in my account yet. It shows as approved.  
+Agent: I see. Have you checked your bank statement?  
+Customer: I checked on Saturday and Friday, and also this morning, but the money hasn't been credited.  
+Agent: It should appear by 11:30. Please check your statement again at that time.  
+Customer: I checked this morning, and earlier it usually shows up at 11:30 in the evening or morning, but not today.  
+Agent: Understood. Our records show the amount was processed, but it may not yet be visible in your bank.  
+Customer: Earlier I withdrew 1,000 on the 6th or 7th and only 1,000 rupees came through. I spoke to your colleague in the morning and was told to check the bank.  
+Agent: Yes, please verify your bank statement; the transaction should be reflected there.  
+Customer: I'm also looking at the quarterly settlement for 5 July – the amount should be 1,180.5. I want to confirm both amounts.  
+Agent: You can see both the transaction and the settlement in your bank statement and ledger.  
+Customer: I tried checking on the UBID app and Google, but it doesn't show there because it's a third‑party app.  
+Agent: Correct, the information will only appear on your bank’s app or statement, not on third‑party platforms.  
+Customer: Previously I received notifications when funds were added, but now I don't see any.  
+Agent: Once the funds are credited, your bank should send a notification.  
+Customer: Can I use any other site, like AngelOne Deleted? And is there a charge of 20 rupees per order?  
+Agent: There is no additional charge for checking the statement, and you won't need to use another site.  
+Customer: Okay, fine.  
+Agent: Thank you for calling AngelOne. We will send a feedback request to your registered email. Have a good day.  
+Customer: Thank you.

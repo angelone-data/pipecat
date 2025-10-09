@@ -1,0 +1,20 @@
+Agent: Very good morning, welcome to AngelOne. My name is Prema. Am I speaking to Mr. Ranjit Kumar Manjit?  
+Customer: Yes, good morning.  
+Agent: How may I assist you today?  
+Customer: I would like to speak in Hindi, please.  
+Agent: Certainly. How can I help you, sir?  
+Customer: I took a loan a few days ago to buy a stock, but I don’t see the loan activation in my profile. I’m only seeing the loan amount.  
+Agent: Please open the AngelOne app and go to **Accounts**. Under Accounts you will find **Statements and Reports**. Download the ledger report; it shows the interest rate applied to your margin loan. The interest for the period from 1 – 15 June is listed, and the rate for 16 – 30 June will also appear.  
+Customer: Where should I click in the app?  
+Agent: Tap **Accounts**, scroll down to **Statements and Reports**, then select the ledger for the relevant dates. The report will show the interest amount and the margin balance.  
+Customer: I’m not seeing the statement and report.  
+Agent: On the account page, look under the **Trading Balance**. Below that you will see **Pledge Holding**; under your name there is an option for **Statements and Reports**. Tap that to view the document.  
+Customer: It’s still not showing.  
+Agent: I can email the report to you. Please confirm your registered PAN number so we can send the statement securely.  
+Customer: My PAN number is *******1234.  
+Agent: Thank you. I have sent the statement to your registered email address; you should receive it shortly.  
+Customer: I still have trouble logging in.  
+Agent: Use your PAN number as the login ID; if you have forgotten your password, you can reset it via the app’s “Forgot Password” option.  
+Customer: No, thank you. I don’t need further assistance.  
+Agent: I’m sorry you experienced this issue, Mr. Manjit. If you have any other questions, feel free to contact us. Thank you for calling AngelOne. Have a nice day.  
+Customer: Thank you. Goodbye.

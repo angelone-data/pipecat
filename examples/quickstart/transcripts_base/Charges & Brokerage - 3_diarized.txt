@@ -1,0 +1,26 @@
+Agent: Good evening, welcome to Intervent. This is Kiran Agar. How may I assist you today?  
+Customer: Good evening. I am Shyamlal Upadhyay.  
+Agent: Good evening, Mr. Upadhyay.  
+Customer: Sir, I am not able to understand what you are saying.  
+Agent: Sorry, Mr. Upadhyay, I’m having trouble hearing you clearly. Could you repeat your query?  
+Customer: Yes, I’m not able to understand. I think you are asking about an interest charge.  
+Agent: Okay, what would you like to know about the interest charge?  
+Customer: I didn’t take it. It appears as Rs. 11.50 on my statement.  
+Agent: I will check that for you and get back to you shortly.  
+Customer: Please do.  
+Agent: I’m not able to locate a specific entry in your account today. However, I see a DP charge of Rs. 23.60 from last Friday, which is the interest charge on the share selling.  
+Customer: No, the DP charge is the interest charge I’m concerned about.  
+Agent: Understood. It is recorded as an MTF interest charge. I can see the deduction dated the 21st.  
+Customer: Yes, that matches what I see.  
+Agent: I will verify the details and update you. This may take a minute or two. May I place you on a brief hold?  
+Customer: Yes, please hold.  
+Agent: Thank you for holding. I’m still checking the account.  
+Agent: I’ve confirmed an MTF interest charge of Rs. 11.15 posted on the 16th.  
+Customer: That sounds correct.  
+Agent: The amount will be reflected between 15:00 and 16:30 today.  
+Customer: Great, thank you.  
+Agent: Is there anything else I can help you with regarding your AngelOne account?  
+Customer: No, that’s all.  
+Agent: Thank you for calling. You will receive a feedback survey at your registered email address. We appreciate your feedback.  
+Customer: Thank you.  
+Agent: Have a good day.

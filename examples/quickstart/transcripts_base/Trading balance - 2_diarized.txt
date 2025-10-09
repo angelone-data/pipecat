@@ -1,0 +1,25 @@
+Agent: Good morning Mr. Raghuprasad, Manjushree Angel One, how may I help you?  
+Customer: Good morning sir.  
+Customer: I sold a 25‑share yesterday, but I can't see the balance. It was a small amount, about 100 rupees, and now it shows only 12 rupees.  
+Agent: You sold it, but why aren't you seeing the balance?  
+Agent: Let me look into the problem and help you.  
+Agent: As I can see, yesterday you sold 25 shares of Infibim Avenues Limited.  
+Customer: Yes sir.  
+Agent: The sale price was 101 rupees.  
+Customer: Yes sir.  
+Agent: The amount of 99 rupees was credited to your account, but only 4 rupees is currently visible. I’m checking the details now.  
+Agent: Please hold a moment while I verify the transaction.  
+Agent: The 99 rupees credited is being held as acute charges, which are future charges.  
+Agent: When you sell a share, a DP charge of 20 rupees plus GST (total 23.60 rupees) is applied after 120 days. Additionally, an account maintenance charge (AMC) of 60 rupees plus GST (total 70.60 rupees) is applied per quarter. Since this is your first trade in the current quarter (July‑September), these charges are currently blocked and will be debited later.  
+Customer: Yes sir.  
+Agent: If the charges are not applied now, they will be deducted later.  
+Customer: No sir, because the 99 rupees credited includes 14.90 rupees for DP charge and 70 rupees for AMC charge, so both amounts will be debited.  
+Agent: The amount is not posted in the ledger yet because it is blocked. Once posted, you will see it in your statement ledger.  
+Agent: Please wait a while; it will be posted automatically.  
+Customer: Okay, I will call you and check the status.  
+Agent: Is your doubt cleared now?  
+Customer: Yes, that's clear.  
+Agent: Please note that your feedback is important. You will receive an email survey after this call.  
+Customer: Okay, I’ll look out for it in my registered email.  
+Agent: Thank you for calling.  
+Customer: Thank you.

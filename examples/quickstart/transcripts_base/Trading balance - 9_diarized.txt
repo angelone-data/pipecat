@@ -1,0 +1,27 @@
+Agent: Good morning, welcome to Intimum. My name is Gaurav. How may I assist you today?  
+
+Customer: I had a profit of Rs 3,200 in January, but I didn’t receive any aid and I’m not sure why. I’d like to check my balance details.  
+
+Agent: Let me check your account. One moment, please.  
+
+Agent: I see three trades from yesterday. The first was a Bank Nifty intraday position of Rs 56,600 with a profit of Rs 1,056. The second was another intraday trade of Rs 56,800 with a profit of Rs 244. The third was a carry‑forward position of Rs 57,000 that you bought earlier and sold yesterday, giving a profit of Rs 1,998.  
+
+Customer: So the total profit should be Rs 3,200?  
+
+Agent: Yes, the combined profit from those three trades is Rs 3,200. However, the settlement timing is different. Intraday profits are added after the next working‑day settlement, whereas carry‑forward profits are added on the same day the position is closed. That’s why you see a difference in the balance at the moment.  
+
+Customer: I’m still a bit confused about how the profit is reflected.  
+
+Agent: Think of it this way: if you open and close an intraday position today, the profit is credited the following morning after settlement. If you close a carry‑forward position today that was opened yesterday, the profit is added to your balance immediately on the day of sale. In your case, the Rs 1,998 profit from the carry‑forward trade was already included in the sell value of Rs 24,957, so it appears in your balance right away. The intraday profits of Rs 1,056 and Rs 244 will be added tomorrow morning.  
+
+Customer: That makes sense. So the total profit of Rs 3,200 will be fully reflected after the next settlement?  
+
+Agent: Correct. After tomorrow’s settlement, the intraday profits will be added, and your balance will show the complete Rs 3,200 profit. You can also verify the details in the Ingen1 app or by checking the contract notes we sent to your email.  
+
+Customer: Got it. Thank you for the explanation.  
+
+Agent: You’re welcome. Is there anything else I can help you with today?  
+
+Customer: No, that’s all.  
+
+Agent: Thank you for calling Intimum. We’ll send a feedback request to your email. Have a great day!

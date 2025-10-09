@@ -1,0 +1,23 @@
+Agent: Hello, thank you for calling. How can I assist you today?  
+Customer: Hello, I need a small help. My linked number is closed and I need to change it.  
+Agent: Sure, may I confirm your name, please?  
+Customer: I am Mr. Shrayan Prabhu Kashyap Bol.  
+Agent: Thank you. So you want to update the phone number and email ID, correct?  
+Customer: Yes.  
+Agent: Could you please provide the last four digits of your registered mobile number?  
+Customer: 5329.  
+Agent: Thank you. May I have your date of birth year?  
+Customer: 1997.  
+Agent: And your email ID?  
+Customer: Shrayan Prasad Bol, Adalite, Jhumanjhatta.  
+Agent: I’m having difficulty hearing you clearly. Could you repeat that?  
+Customer: Shrayan Prasad Bol, Adalite, Jhumanjhatta.  
+Agent: I see. The update has been applied to your other card as well. However, to change the mobile number we need to verify via OTP sent to the registered number on your other card. Since that number is inactive, you’ll need to update it first.  
+Customer: That sounds complicated and will take a lot of time.  
+Agent: I understand. Unfortunately, there is no alternative process. You must update the other card’s mobile number first, then we can change the number in Angel One.  
+Customer: So there is no other way?  
+Agent: No, that is the only way. Once you update the other card’s number, we can proceed.  
+Customer: Okay, thank you.  
+Agent: Is there anything else I can help you with regarding this account?  
+Customer: No, that’s all. Thank you.  
+Agent: You’re welcome. Have a great day.

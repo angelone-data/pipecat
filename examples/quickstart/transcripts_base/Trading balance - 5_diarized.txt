@@ -1,0 +1,27 @@
+Agent: Good morning, welcome to NJ One. My name is Moushar. May I speak with Mousin Shamad Shreyed?  
+Customer: Speaking.  
+Agent: Let me check your account. How long have you been experiencing this issue?  
+Customer: I'm not sure what’s happening with my account.  
+Agent: I see. Your account balance on the 9th was 240 rupees, and you sold shares worth about 30,000 rupees that day.  
+Customer: Yes.  
+Agent: If you’d like an exact figure, I can give it to you.  
+Customer: That would be fine.  
+Agent: You sold shares for 30,170 rupees, leaving a balance of 30,411 rupees on the 9th. After that you sold another batch for 17,180 rupees, which reduced the balance to 13,231 rupees. You then withdrew 11,000 rupees, bringing it down to about 2,200 rupees.  
+Customer: Actually I took a position, not just a withdrawal.  
+Agent: Understood. The amount for the position will be deducted from your account. You later bought shares worth 9,000 rupees and another position of 27,000 rupees, which generated a profit of roughly 9,000‑10,000 rupees.  
+Customer: Right.  
+Agent: After those trades you had a net profit of 10,000 rupees, but you also incurred a loss of 17,000 rupees, so the total loss was about 27,000 rupees. You withdrew 11,000 rupees, leaving roughly 2,000 rupees.  
+Customer: Then I added 15,000 rupees yesterday.  
+Agent: Yes, after that addition your balance became about 17,057 rupees. Yesterday you also sold the position you held and opened a new one for 375 shares, which is about 38,231 rupees. That resulted in a credit of roughly 32,000 rupees and a profit of 25,000 rupees on one trade and 12,000 rupees on another, with a loss of about 8,000 rupees. Overall you have a credit of around 36,000 rupees but a pending position of 38,000 rupees.  
+Customer: So I owe about 2,000 rupees?  
+Agent: Correct. That amount will be settled when the position is closed. Your opening balance today was 15,017 rupees after a DP charge of 20 rupees on the 9th transaction.  
+Customer: What are the charges for these trades?  
+Agent: The charge is 20 rupees plus taxes per order, the same for intraday and carry positions.  
+Customer: How did the 17,000 rupees decrease on the 9th?  
+Agent: When you take a position you pay from your pocket, and the amount is reflected in your balance. It will be credited back when you sell the position.  
+Customer: I see. So the profit of 10,000 rupees is already accounted for?  
+Agent: Yes, you have a net profit of 10,000 rupees after settling the 27,000 rupee position.  
+Customer: That sounds correct.  
+Agent: Is there anything else I can help you with today?  
+Customer: No, that covers everything. Thank you.  
+Agent: You’re welcome. Have a great day.

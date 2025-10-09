@@ -1,0 +1,32 @@
+Agent: Good afternoon, welcome to Winklevon, this is Kiran Ravit speaking with Ms. Sumitra Nitrawal.  
+Customer: Yes.  
+Agent: How can I help you today?  
+Customer: I need to know the current rate of my loan.  
+Agent: The current rate is Rs 5,800. The one‑month loan amount is Rs 4,000.  
+Customer: Okay.  
+Agent: I will call you back, Mr. Sumitra. Are you checking the live basis of the charge in the estimator?  
+Customer: Yes.  
+Agent: I will check it and then update you. Can you confirm the registered mobile number on the account?  
+Customer: 9887199092.  
+Agent: Thank you. What is the loan date?  
+Customer: The loan date is 26 September.  
+Agent: And the email ID?  
+Customer: Sumitra Nitrawal.  
+Agent: Sorry, the voice is not clear. Could you repeat that?  
+Customer: Yes.  
+Agent: Thank you for confirming. You mentioned the estimator shows Rs 5,800. Is that correct?  
+Customer: Yes.  
+Agent: I see you have cancelled the stop‑loss. Is that right?  
+Customer: Yes.  
+Agent: The estimator is showing the current rate. Let me check the details.  
+Agent: It is showing the estimated block amount, which is the total value of your trades—both bought and sold. These are not real charges; they are deductions shown for reference. If you click the “i” icon you’ll see the estimated charges.  
+Customer: Yes.  
+Agent: The estimate includes brokerage and taxes. For example, if you trade Rs 20,000 and sell at Rs 45,000 with a Rs 5,000 profit, the brokerage might be Rs 200 and tax Rs 100, so Rs 300 would be deducted from your ledger and the rest released.  
+Agent: Do you want to know the amount for a Nifty buy order?  
+Customer: Yes.  
+Agent: A Nifty order costs Rs 20 per order plus government taxes and interest. You can trade Nifty, futures, commodities, or currency pairs. Charges shown are only estimates; the actual ledger will reflect real charges at the end of the day.  
+Customer: How can I check the final charges?  
+Agent: You can review your ledger at the end of the day or check the evening statement for actual charges and taxes.  
+Customer: I understand. Can I file a complaint?  
+Agent: Yes, you can file a complaint if needed. I will forward your request to the complaints department and get back to you shortly.  
+Customer: Thank you.

@@ -1,0 +1,35 @@
+Agent: Good afternoon, this is Shobana Pandey speaking. How can I help you today?  
+
+Customer: I have the account number and the client ID for Mr. Yogesh Pandey. The client ID is Y5 03 03 93 93 478 478.  
+
+Agent: Thank you. I’ll verify a few security details.  
+
+Customer: The last four digits of the registered mobile number are 7566. The email ID is yogesh.pandey858.8@email.com and the date of birth is 1985.  
+
+Agent: Verification complete. What would you like to know about the client ID?  
+
+Customer: I see a withdrawal request of ₹33,718 pending in my account. It says the funds will be withdrawn in one minute, but it’s still pending.  
+
+Agent: Let me check your trading balance. You have a total of ₹1,19,525. Today you added ₹88,000, which is not part of the pending withdrawal. The remaining balance is ₹35,021.  
+
+Customer: Is the ₹35,021 withdrawable?  
+
+Agent: If the amount is used for trading it won’t be withdrawable, but the balance not used for trading can be withdrawn.  
+
+Customer: Why is the ₹33,718 still pending?  
+
+Agent: You initiated the withdrawal around 12 pm. It will be approved by 11:30 pm and credited to your FTSC bank account by that time.  
+
+Customer: If I need more funds in the morning, will the amount be available after 11:30 pm?  
+
+Agent: Yes. Withdrawals requested before 7 am are credited by 11:30 am the same day, provided no trades use the funds. If the funds are already traded, they will be credited after 24 working hours.  
+
+Customer: So my ₹30,000 will be received by 11:30 pm?  
+
+Agent: Correct. You can request withdrawals before 7 am for same‑day credit, or any time after 7 am for credit by 11:30 pm.  
+
+Customer: That’s all I needed. Thank you.  
+
+Agent: You’re welcome. After this call you’ll receive a feedback survey. Have a nice day.  
+
+Customer: Thank you.

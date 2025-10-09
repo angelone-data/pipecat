@@ -1,0 +1,19 @@
+Agent: Hi, I am Ms. Rosy Suri from Angel One. How may I help you?  
+Customer: I deactivated the FNO. I need to trade equities.  
+Agent: Okay, I will check the details and provide you the information.  
+Agent: By the way, are you speaking with Ms. Rosy Suri?  
+Customer: Yes, I am.  
+Agent: Please stay on the line while I check your details.  
+Agent: Your FNO deactivation request was received yesterday. Your BST futures and NSC futures are inactive, which means the futures and options segment is inactive.  
+Customer: So it is inactive?  
+Agent: Yes, it is inactive.  
+Agent: You cannot trade in futures and options; you can trade only in equities.  
+Agent: You received an email 18 hours ago confirming the deactivation of your FNO segment. It will be permanently deactivated within 72 working hours, and you cannot trade for the next 24 hours.  
+Customer: Okay, I understand.  
+Customer: I just need to buy stocks in equity after a week.  
+Agent: You can buy shares in equity today; there is no issue.  
+Customer: I will have to go home early; I’m a little scared.  
+Agent: That’s fine, you may go.  
+Customer: No further questions. Thank you.  
+Agent: Thank you for calling Angel One. After the call, you will receive a feedback survey link on your registered email. Please share your feedback.  
+Customer: Thank you. Goodbye.

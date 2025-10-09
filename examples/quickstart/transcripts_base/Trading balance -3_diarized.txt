@@ -1,0 +1,29 @@
+Agent: Good morning Mr. Vasudev, this is Angel One. How can I assist you today?  
+
+Customer: Good morning. I'd like to know my account balance.  
+
+Agent: Let me check. Your trading balance is positive and I don’t see any MTF borrowing.  
+
+Customer: Thank you. I have a 2600 call option position on DSC. What is the rate?  
+
+Agent: I see your DSC 2600 call option is pending with a premium of Rs. 90. The current rate is 58.40.  
+
+Customer: Okay, that’s fine.  
+
+Agent: You have sufficient margin and trading balance available.  
+
+Customer: I have placed a request for 40,000. If it’s not used by the end of the day, the amount will be returned to my bank by 11:30 pm.  
+
+Agent: Understood. The rate will depend on the margin requirement, and we’ll inform you of any changes.  
+
+Customer: If the rate or position value goes down, will there be a correction?  
+
+Agent: Yes, any adjustments will be applied accordingly. If there’s a shortfall, you’ll receive a notice, typically within two to three days, possibly in YAML format.  
+
+Customer: Alright, I’ll proceed. Is there anything else I need to do?  
+
+Agent: No, that’s all. Thank you for calling Angel One.  
+
+Customer: Thank you.  
+
+Agent: You’re welcome, sir.

@@ -1,0 +1,32 @@
+Agent: Good afternoon, I am Angel1. Am I speaking with Dipti Ranjan Malli?  
+Customer: Yes.  
+Agent: You have called us from Dipti ji’s account and you would like information about this account, correct?  
+Customer: Yes.  
+Agent: Please verify your identity. Could you tell me the last four digits of the registered mobile number?  
+Customer: 9862.  
+Agent: Thank you. May I have your email address, please?  
+Customer: dptardar@gmail.com.  
+Agent: And the last four digits of the N4 plan card?  
+Customer: CDUPM9393P.  
+Agent: Thank you for the verification. How can I help you today?  
+Customer: My trading balance and my main balance were around 2,03,000. Now my trading balance is 1,95,000. I’m missing about 8,000.  
+Agent: Please hold while I check that for you.  
+
+Agent: I see that your morning balance was 2,36,768 and your current balance is 1,95,289.  
+Customer: Yes.  
+Agent: The profit from your trades will be credited on the next working day. The amount that appears to be missing is currently blocked as estimated charges – brokerage and taxes on the trades you placed.  
+Customer: I understand, but I was expecting only about 2,000–2,500 to be blocked. Why is it 8,000?  
+Agent: The blocked amount includes the brokerage fee, exchange taxes, STT, transaction charges, and other applicable fees. These are calculated as a percentage of the trade value, so they can add up.  
+
+Agent: May I place you on hold for a minute while I calculate the exact percentages?  
+Customer: Yes, please.  
+
+Agent: Thank you for waiting. The option transaction charge is 0.03503% of the trade value, the securities transaction charge is 0.10%, the IPFT charge is 0.0005%, and the stamp duty is 0.003%. All of these charges attract an 18% GST.  
+Customer: Okay, thank you.  
+
+Agent: You will receive a contact note this evening that details all the charges and the final settlement.  
+Customer: Got it.  
+
+Agent: Is there anything else I can assist you with regarding Angel One?  
+Customer: No, that’s all. I will check the note later.  
+Agent: Very well. After this call you will also receive an email to provide feedback. Thank you for calling Angel One. Have a great day!

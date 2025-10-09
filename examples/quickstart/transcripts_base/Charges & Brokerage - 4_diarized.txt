@@ -1,0 +1,23 @@
+Agent: Good afternoon, my name is Sonam from Angel Run. Am I speaking with Mr. Soni?  
+Customer: Yes.  
+Agent: Hello sir, how can I help you?  
+Customer: I want to ask about buying 6 lots of Nifty at 25,000 rupees each.  
+Agent: That would be a total value of 75 lakhs. Let me check the cost for you.  
+Customer: Can you confirm the price?  
+Agent: The price you mentioned is 25,000 rupees per lot. You are looking at 31,000 rupees per lot, correct?  
+Customer: Yes.  
+Agent: You are buying 4 lots, right?  
+Customer: Yes.  
+Agent: The charges would be Rs 20 as Angel Run brokerage, Rs 295 external charges, plus taxes of about Rs 250. So the total comes to roughly Rs 340 to Rs 342.  
+Customer: If I sell those lots, how much will it cost?  
+Agent: The sell‑side charges will depend on the sale price, but the brokerage and taxes are similar. The total will be around the same range.  
+Customer: Can these charges vary because the price changes?  
+Agent: Yes, the charges are estimated. For example, with a trade value of Rs 7 lakhs, the 0.125 % security tax would be blocked as an estimated charge. The brokerage is Rs 20 per order.  
+Customer: I bought four lots of futures and the system blocked about Rs 19,000. What is the actual amount I will be debited?  
+Agent: The blocked amount is an estimate. After the market closes, the final charges are calculated and the excess is released. You may end up paying around Rs 1,000, with the remaining amount returned to you.  
+Customer: So I have to wait until the evening for the final confirmation?  
+Agent: Yes, the final charges will be confirmed in the evening.  
+Customer: Thank you. Can anyone else help me with this?  
+Agent: No, I’ve covered everything.  
+Customer: Thank you very much.  
+Agent: You’re welcome. Have a great day.

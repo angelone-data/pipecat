@@ -1,0 +1,15 @@
+Agent: Hello, good afternoon. How can I help you?  
+Customer: My name is Bharat Morwariya. I have done a withdrawal today.  
+Agent: Okay, I will check that for you.  
+Customer: Thank you for your help.  
+Agent: You have made a withdrawal request, but the funds have not been submitted yet. I will look into it.  
+Customer: Yes.  
+Agent: Please keep in touch. Your request for Rs 3800 has been approved on our side. Is that correct?  
+Customer: Yes.  
+Agent: Let me check the details. The withdrawal was submitted at 7:04, and the fund is approved. The credit should be completed by 11 pm at the latest. We try to credit earlier if possible, but the payout is processed in slots. Your fund will be credited to your bank account as soon as possible.  
+Customer: I understand, but is there any way to expedite it?  
+Agent: I will confirm with our team and see if we can speed it up. Please hold for a minute.  
+Customer: Okay, no problem.  
+Agent: Thank you for your patience. Please stay on the line; we appreciate your call.  
+Customer: Thank you.  
+Agent: Thank you for calling. Your patience is greatly appreciated.

@@ -1,0 +1,33 @@
+Agent: Good morning, welcome to Intel One. My name is Hira Aran. How can I help you today?  
+
+Customer: Yes, I am Akash Jaiswal. I have a remit account and I do option trading. My trading charges are quite high.  
+
+Agent: I’m sorry to hear that. Can you tell me how much you are being charged?  
+
+Customer: On the first day I made one trade and lost around Rs 300. On the second day it was fine. Yesterday I took nine trades and lost about Rs 1,000. The charges are roughly Rs 108‑110 per trade, with Rs 20 taken for the option. I’m concerned because the brokerage is being charged per trade instead of per lot.  
+
+Agent: I understand. You’ve also mentioned that you contacted your sub‑broker, Praveen Dularakar, but haven’t received any response.  
+
+Customer: Yes, I called them 5‑7 times and they didn’t answer. They said they would send a message, but I haven’t received anything in the past four to five days.  
+
+Agent: I’m sorry for the inconvenience. Please stay on the line while I check your account details.  
+
+Customer: Thank you.  
+
+Agent: Your brokerage plan is the traditional plan, which calculates charges per lot. That’s why you’re seeing Rs 108‑110 per trade.  
+
+Customer: But I trade on a per‑lot basis, so the charge should be Rs 20 per lot, not per trade. I’ve been overcharged by about Rs 1,500‑2,000.  
+
+Agent: I understand your concern. According to your plan, the charges are applied as per the lot basis, but the system may have applied them incorrectly. I will forward your request to the relevant team.  
+
+Customer: How long will it take?  
+
+Agent: You should receive an update within 5‑7 working days at your registered email address. You will also receive a confirmation call or email.  
+
+Customer: Can I contact you again if I don’t hear back?  
+
+Agent: Yes, you can reach out if you need further assistance.  
+
+Customer: No, that’s all. Thank you.  
+
+Agent: Thank you for contacting Intel One. Have a good day.

@@ -1,0 +1,11 @@
+Agent: Good afternoon, welcome to Wings1. My name is Prima. How may I assist you, sir?  
+Customer: I have shares of Canberra Bank and Bank of Baroda that I pledged to get funds. I have 1,066 points of Canberra Bank that were pledged.  
+Agent: You want to un‑pledge those shares?  
+Customer: No, I want the interest charge on the pledged amount reduced. I’m being charged 110 rupees per MPF daily, and I’d like that lowered. The amount is shown in the pledge for the 2,000 shares.  
+Agent: The 2,000 shares you pledged are shown on MTR Borrowings. You’d like that removed?  
+Customer: Yes, please. When will it be updated?  
+Agent: It will be updated within 24 hours. Once the shares are sold, interest will stop accruing.  
+Customer: If I had sold all my pledged points, say 1,046 points, could I have sold them?  
+Agent: Yes, you can sell your shares at any time; there are no restrictions.  
+Customer: How much should I adjust? I have pledged the remaining shares.  
+Agent: Let me check your account. Your balance is negative – 13,66,527.49 rupees. Any stock you sell will be credited and adjusted against your ledger. For example, you sold shares worth 2,26,000 today, reducing the negative balance. After the adjustment, your balance will be around 11,40,000 rupees.

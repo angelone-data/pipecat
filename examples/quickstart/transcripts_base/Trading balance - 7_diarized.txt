@@ -1,0 +1,18 @@
+Agent: Good morning, my name is Sonam from Angel One. Am I speaking with Mr. Dholav?  
+Customer: Yes.  
+Agent: Thank you. How can I help you?  
+Customer: Yesterday I sold some shares, but the proceeds haven't been reflected in my balance.  
+Agent: I’m sorry for the inconvenience. I understand you sold shares yesterday and the funds are not showing. Let me check that for you.  
+Customer: No problem.  
+Agent: According to our records, you sold shares of Garden Reach (9 units) and Vary Energies, and you also bought some shares.  
+Customer: Yes.  
+Agent: So you sold shares but also bought shares. Your buying value was higher than your selling value, so the amount was adjusted. For example, you sold ₹100 and bought ₹200, so the ₹100 was offset. Additionally, you had funds in your account, and after the adjustment, ₹9,975 was deducted from your ledger balance as part of the settlement.  
+Customer: I also added funds yesterday—₹22,000—and today I added more. My total should match, but it doesn't.  
+Agent: Let’s review. Currently you have ₹52,015.15 in your account. You added ₹22,000 yesterday, ₹6,100 today, and earlier you added ₹2,000, bringing the total to ₹25,593 before the share transaction. After the transaction, ₹30,286 was credited to your account.  
+Customer: I didn’t receive a message about that credit. Please check the ledger statement.  
+Agent: I will send you the ledger statement after this call. Please review it.  
+Customer: No, that’s all.  
+Agent: Thank you, sir. After this call you will receive a feedback email to your registered address. Please share your feedback.  
+Customer: Thank you.  
+Agent: Thank you for calling AngelBens. Have a great day, sir.  
+Customer: You too.
